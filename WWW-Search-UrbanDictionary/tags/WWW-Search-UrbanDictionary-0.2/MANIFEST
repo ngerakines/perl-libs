@@ -1,0 +1,12 @@
+CHANGES
+lib/WWW/Search/UrbanDictionary.pm
+MANIFEST
+Makefile.PL
+Build.PL
+README
+t/02-pod.t
+t/03-pod_coverage.t
+t/04-perl_critic.t
+t/11-compile.t
+t/12-search.t
+META.yml

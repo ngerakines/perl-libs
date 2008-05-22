@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: WWW-Search-Odeo
+version: 0.1
+author:
+  - Nick Gerakines <nick@socklabs.com>
+abstract: Find cool stuff in Odeo
+license: perl
+generated_by: Module::Build version 0.2612, without YAML.pm

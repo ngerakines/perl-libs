@@ -1,0 +1,15 @@
+---
+name: WWW-CloudCreator
+version: 1.0
+author:
+  - Nick Gerakines <nick@socklabs.com>
+abstract: A weighted cloud creator
+license: perl
+build_requires:
+  Test::Differences: 0
+  Test::More: 0
+provides:
+  WWW::CloudCreator:
+    file: lib/WWW/CloudCreator.pm
+    version: 1.0
+generated_by: Module::Build version 0.2611

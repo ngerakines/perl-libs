@@ -1,0 +1,10 @@
+----
+name:         WWW-Search-Feedster
+version:      0.02
+version_from: Feedster.pm
+installdirs:  site
+requires:
+  XML::RSS::LibXML:              0.05
+  Test::More:                    0
+  WWW::Search:                   0
+distribution_type: module

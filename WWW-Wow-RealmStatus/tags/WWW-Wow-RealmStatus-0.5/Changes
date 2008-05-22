@@ -1,0 +1,18 @@
+Revision history for WWW-Wow-RealmStatus
+
+0.5 2007-06-06
+ - Fixed small bug where the wrong realm type was being reported.
+
+0.4 2007-05-07
+ - Removed extra output from the process script
+ - Fixed small bug where type was returning 'normal' instead of 'pve'
+
+0.3 2007-04-29
+ - Minor code cleanup.
+
+0.2 2007-04-29
+ - Switched from Module::Build to MakeMaker.
+
+0.01    2007-04-29
+        First version, released on an unsuspecting world.
+

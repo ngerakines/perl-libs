@@ -1,0 +1,16 @@
+CHANGES
+Feedster.pm
+MANIFEST			This list of files
+Makefile.PL
+README
+t/00-pod.t
+t/01-load.t
+t/02-load_feedster.t
+t/03-search.t
+t/04-search_more.t
+t/05-search_jobs.t
+t/06-search_blogs.t
+t/07-search_jobs_more.t
+t/08-search_feeds.t
+t/09-search_links.t
+META.yml                                 Module meta-data (added by MakeMaker)

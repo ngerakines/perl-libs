@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: WWW-Search-UrbanDictionary
+version: 0.2
+author:
+  - Nick Gerakines <nick@socklabs.com>
+abstract: Search the Urban Dictionary via SOAP
+license: perl
+generated_by: Module::Build version 0.2612, without YAML.pm

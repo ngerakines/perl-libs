@@ -1,0 +1,9 @@
+Build.PL
+Changes
+MANIFEST
+META.yml
+README
+lib/WWW/Search/ISBNDB.pm
+t/00-pod.t
+t/01-pod-coverage.t
+t/10-load.t

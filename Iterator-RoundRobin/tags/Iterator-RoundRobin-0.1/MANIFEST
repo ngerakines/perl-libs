@@ -1,0 +1,13 @@
+Makefile.PL
+Changes
+MANIFEST
+MANIFEST.skip
+META.yml
+README
+lib/Iterator/RoundRobin.pm
+t/04-critic.t
+t/00-load.t
+t/11-new.t
+t/12-functions.t
+t/03-pod_coverage.t
+t/02-pod.t

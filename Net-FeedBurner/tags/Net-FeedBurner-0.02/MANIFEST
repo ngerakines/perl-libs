@@ -1,0 +1,12 @@
+Build.PL
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+README
+lib/Net/FeedBurner.pm
+t/00-compile.t
+t/04-pod.t
+t/05-pod_coverage.t
+t/11-new.t
+t/12-functions.t
+t/20-usage.t

@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Net-FeedBurner
+version: 0.01
+author:
+  - Nick Gerakines <nick@socklabs.com>
+abstract: The great new Net::FeedBurner!
+license: perl
+generated_by: Module::Build version 0.2612, without YAML.pm

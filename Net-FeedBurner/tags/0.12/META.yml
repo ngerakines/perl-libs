@@ -1,0 +1,17 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Net-FeedBurner
+version:      0.12
+version_from: lib/Net/FeedBurner.pm
+installdirs:  site
+requires:
+    English:                       0
+    LWP::UserAgent:                0
+    Test::More:                    0
+    Time::Format:                  0
+    URI::Escape:                   0
+    URI::Split:                    0
+    XML::Simple:                   0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17

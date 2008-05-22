@@ -1,0 +1,11 @@
+Revision history for WWW-Wow-RealmStatus
+
+0.3 2007-04-29
+ - Minor code cleanup.
+
+0.2 2007-04-29
+ - Switched from Module::Build to MakeMaker.
+
+0.01    2007-04-29
+        First version, released on an unsuspecting world.
+

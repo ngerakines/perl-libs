@@ -1,0 +1,9 @@
+Makefile.PL
+Changes
+MANIFEST
+MANIFEST.skip
+META.yml # Will be created by "make dist"
+README
+lib/WWW/Yahoo/KeywordExtractor.pm
+t/00-load.t
+t/11-compile.t

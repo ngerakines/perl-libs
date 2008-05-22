@@ -1,0 +1,12 @@
+Revision history for Perl module WWW::Search::Feedster: 
+
+0.01 Thu Aug 04 08:30:00 PST 2005
+	- first released version
+
+0.02 Tue Aug 09 10:18:00 PST 2005
+	- added basic sub searches (jobs, blogs, etc)
+	- second released version
+
+0.03 Thu Feb 16 13:59:00 PST 2006
+    - Moved from XML::RSS::LibXML to XML::Simple
+    - Updated internal urls to comply with Feedster's new site structure.

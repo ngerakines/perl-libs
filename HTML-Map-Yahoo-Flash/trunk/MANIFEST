@@ -1,0 +1,7 @@
+Changes
+MANIFEST
+META.yml
+Build.PL
+README
+lib/HTML/Map/Yahoo/Flash.pm
+t/00-load.t

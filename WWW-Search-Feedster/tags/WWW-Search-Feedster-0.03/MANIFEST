@@ -1,0 +1,10 @@
+CHANGES
+lib/WWW/Search/Feedster.pm
+MANIFEST			This list of files
+Build.PL
+README
+t/00-pod.t
+t/01-load.t
+t/02-load_feedster.t
+t/03-search.t
+META.yml                                 Module meta-data (added by MakeMaker)

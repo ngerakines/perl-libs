@@ -1,0 +1,12 @@
+Makefile.PL
+Changes
+MANIFEST
+MANIFEST.skip
+META.yml # Will be created by "make dist"
+README
+lib/Net/FeedBurner.pm
+t/00-compile.t
+t/11-new.t
+t/12-functions.t
+examples/awapi.pl
+examples/usage.pl
