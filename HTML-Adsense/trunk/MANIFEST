@@ -1,9 +1,0 @@
-Makefile.PL
-Changes
-MANIFEST
-MANIFEST.skip
-META.yml
-README
-lib/HTML/Adsense.pm
-t/00-compile.t
-t/10-new.t
