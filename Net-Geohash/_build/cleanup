@@ -1,5 +1,0 @@
-{
-          'Net-Geohash-1.0' => 1,
-          'Net-Geohash-*' => 1,
-          'blib' => 1
-        }
